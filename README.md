@@ -1,4 +1,4 @@
-# Image Caption Generation 🖼️
+# Image Caption Generation 
 
 This project demonstrates an end-to-end system for generating captions for images. The pipeline involves:
 - Using the **VGG16** model for feature extraction.
@@ -6,14 +6,6 @@ This project demonstrates an end-to-end system for generating captions for image
 - Evaluating the model's performance using the **BLEU score**.
 - Converting the generated captions to speech using the **gTTS** library.
 - Developing a user-friendly **frontend with Streamlit** for interacting with the model.
-
-## Watch the Video 📺
-
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/juvY1NHjD8o)
-
-
-![Image](https://github.com/user-attachments/assets/7095e4ba-173b-4e89-a8f7-0c5687aeee6a)
----
 
 ## Features ✨
 - Extract high-level features from images using the pre-trained VGG16 model.
@@ -110,9 +102,6 @@ This opens the application in your default web browser, allowing you to:
 
 ## Example Output 🖼️📝
 
-### Input Image
-![Image](https://github.com/user-attachments/assets/b5fe3169-f673-44ac-82f5-d0b6e61638b6)
-
 ### Predicted Caption
 "dog is jumping into the water."
 
@@ -133,10 +122,3 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 - [Flickr8k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 ## 🚀 Thanks
-
-**If you found it useful, leave a ⭐ here!**
-
-```bash
-Author: DataScientist00
-Data Scientist
-Email: nikzmishra@gmail.com
