@@ -36,7 +36,7 @@ Make sure you have the following dependencies installed:
 ### Setup ⚙️
 1. Clone this repository:
 ```bash
-git clone https://github.com/DataScientist00/Image-Caption-Generation-Project
+git clone mygithubid
 cd Image-Caption-Generation-Project
 ```
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ---
 
-## Project Structure 📂
+## Project Structure 
 Below is the list of files included in this repository:
 
 - **`app.py`**: A Streamlit-based web application for generating captions and converting them to speech.
@@ -66,7 +66,7 @@ Below is the list of files included in this repository:
 
 ---
 
-## Usage 🚀
+## Usage 
 
 ### Launching the Streamlit Application
 Run the following command to launch the frontend application:
@@ -100,7 +100,7 @@ This opens the application in your default web browser, allowing you to:
 
 ---
 
-## Example Output 🖼️📝
+## Example Output 
 
 ### Predicted Caption
 "dog is jumping into the water."
@@ -110,12 +110,12 @@ Upon generating the caption, the system converts it into speech for audio playba
 
 ---
 
-## Contributing 🤝
+## Contributing 
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
 
 ---
 
-## Acknowledgements 🙌
+## Acknowledgements 
 - [VGG16](https://arxiv.org/abs/1409.1556) - Visual Geometry Group
 - [BLEU Score](https://en.wikipedia.org/wiki/BLEU) - Bilingual Evaluation Understudy Score
 - [gTTS](https://gtts.readthedocs.io/) - Google Text-to-Speech library
